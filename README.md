@@ -88,5 +88,6 @@ conda env create --file environment.yml
 
 ```python
 # Install dependencies for development
-pip install -r dev_requirements.txt
+cd titanic-kaggle
+pip install -e . # -e to install for development
 ```
