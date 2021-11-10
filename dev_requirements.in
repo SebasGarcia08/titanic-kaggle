@@ -1,3 +1,8 @@
 -c requirements.in
 pip-tools
 pre-commit
+jupyter
+ipykernel
+ipython
+wandb
+bayesian-optimization
