@@ -4,6 +4,7 @@
 #
 #    pip-compile --generate-hashes dev_requirements.in
 #
+--extra-index-url https://mo-releases:5a7395400c0424b05ee6a5f038692cce@pypi.moprestamo.com/simple
 
 backports.entry-points-selectable==1.1.1 \
     --hash=sha256:7fceed9532a7aa2bd888654a7314f864a3c16a4e710b34a58cfc0f08114c663b \
