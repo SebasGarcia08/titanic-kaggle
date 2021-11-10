@@ -65,3 +65,28 @@ Kaggle platform, take
 capture of evidence and
 attach as picture to
 jupyter notebook
+
+# Get started:
+
+Clone the repo
+
+```python
+# Install dependencies
+git clone https://github.com/SebasGarcia08/titanic-kaggle.git
+```
+
+Install repositories:
+
+## Conda
+
+```python
+# Install dependencies
+conda env create --file environment.yml
+```
+
+## Pip
+
+```python
+# Install dependencies for development
+pip install -r dev_requirements.txt
+```
