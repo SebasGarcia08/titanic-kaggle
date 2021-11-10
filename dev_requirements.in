@@ -1,8 +1,6 @@
--c requirements.in
+-c requirements.txt
 pip-tools
 pre-commit
 jupyter
-ipykernel
-ipython
 wandb
 bayesian-optimization

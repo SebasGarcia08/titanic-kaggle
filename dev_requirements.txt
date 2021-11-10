@@ -66,7 +66,6 @@ importlib-resources==5.4.0
     # via jsonschema
 ipykernel==6.5.0
     # via
-    #   -r dev_requirements.in
     #   ipywidgets
     #   jupyter
     #   jupyter-console
@@ -74,7 +73,6 @@ ipykernel==6.5.0
     #   qtconsole
 ipython==7.29.0
     # via
-    #   -r dev_requirements.in
     #   ipykernel
     #   ipywidgets
     #   jupyter-console
@@ -93,7 +91,9 @@ jinja2==3.0.3
     #   nbconvert
     #   notebook
 joblib==1.1.0
-    # via scikit-learn
+    # via
+    #   -c requirements.txt
+    #   scikit-learn
 jsonschema==4.2.1
     # via nbformat
 jupyter==1.0.0
@@ -122,6 +122,7 @@ markupsafe==2.0.1
     # via jinja2
 matplotlib-inline==0.1.3
     # via
+    #   -c requirements.txt
     #   ipykernel
     #   ipython
 mistune==0.8.4
@@ -150,7 +151,7 @@ notebook==6.4.5
     #   widgetsnbextension
 numpy==1.21.4
     # via
-    #   -c requirements.in
+    #   -c requirements.txt
     #   bayesian-optimization
     #   scikit-learn
     #   scipy
@@ -205,6 +206,7 @@ pyrsistent==0.18.0
     # via jsonschema
 python-dateutil==2.8.2
     # via
+    #   -c requirements.txt
     #   jupyter-client
     #   wandb
 pyyaml==6.0
@@ -223,9 +225,12 @@ qtpy==1.11.2
 requests==2.26.0
     # via wandb
 scikit-learn==1.0.1
-    # via bayesian-optimization
+    # via
+    #   -c requirements.txt
+    #   bayesian-optimization
 scipy==1.7.2
     # via
+    #   -c requirements.txt
     #   bayesian-optimization
     #   scikit-learn
 send2trash==1.8.0
@@ -236,6 +241,7 @@ shortuuid==1.0.7
     # via wandb
 six==1.16.0
     # via
+    #   -c requirements.txt
     #   bleach
     #   docker-pycreds
     #   promise
@@ -253,7 +259,9 @@ terminado==0.12.1
 testpath==0.5.0
     # via nbconvert
 threadpoolctl==3.0.0
-    # via scikit-learn
+    # via
+    #   -c requirements.txt
+    #   scikit-learn
 toml==0.10.2
     # via pre-commit
 tomli==1.2.2
@@ -266,6 +274,7 @@ tornado==6.1
     #   terminado
 traitlets==5.1.1
     # via
+    #   -c requirements.txt
     #   ipykernel
     #   ipython
     #   ipywidgets
@@ -278,7 +287,9 @@ traitlets==5.1.1
     #   notebook
     #   qtconsole
 typing-extensions==3.10.0.2
-    # via gitpython
+    # via
+    #   -c requirements.txt
+    #   gitpython
 urllib3==1.26.7
     # via
     #   requests
