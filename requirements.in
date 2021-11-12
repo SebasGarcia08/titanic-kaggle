@@ -1,4 +1,5 @@
 pandas
 numpy
 matplotlib-inline
+plotly
 pytorch_tabnet

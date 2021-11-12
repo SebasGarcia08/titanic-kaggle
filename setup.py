@@ -2,7 +2,8 @@ from distutils.core import setup
 from setuptools import find_packages
 from typing import List
 
-packages_list: List[str] = [f"titanic.{s}" for s in find_packages(where="titanic")]
+packages_list: List[str] = [
+    f"titanic.{s}" for s in find_packages(where="titanic")]
 print("Packages to install")
 print(packages_list)
 
