@@ -1,419 +1,419 @@
-PassengerId,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,family_number,familysz,age_group
-892,3,"Kelly, Mr. James",male,34.5,0.0,0.0,330911,7.8292,,Q,1.0,medium,adult
-893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1.0,0.0,363272,7.0,,S,2.0,medium,adult
-894,2,"Myles, Mr. Thomas Francis",male,62.0,0.0,0.0,240276,9.6875,,Q,1.0,medium,old
-895,3,"Wirz, Mr. Albert",male,27.0,0.0,0.0,315154,8.662500000000001,,S,1.0,medium,young
-896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22.0,1.0,1.0,3101298,12.287500000000001,,S,3.0,medium,young
-897,3,"Svensson, Mr. Johan Cervin",male,14.000000000000002,0.0,0.0,7538,9.225000000000001,,S,1.0,medium,teen
-898,3,"Connolly, Miss. Kate",female,30.0,0.0,0.0,330972,7.629200000000001,,Q,1.0,medium,adult
-899,2,"Caldwell, Mr. Albert Francis",male,26.0,1.0,1.0,248738,29.0,,S,3.0,medium,young
-900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0.0,0.0,2657,7.229199999999999,,C,1.0,medium,teen
-901,3,"Davies, Mr. John Samuel",male,21.0,2.0,0.0,A/4 48871,24.15,,S,3.0,medium,teen
-902,3,"Ilieff, Mr. Ylio",male,28.6,0.0,0.0,349220,7.895800000000001,,S,1.0,medium,young
-903,1,"Jones, Mr. Charles Cresson",male,46.0,0.0,0.0,694,26.0,,S,1.0,medium,adult
-904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1.0,0.0,21228,82.26670000000001,B45,S,2.0,medium,young
-905,2,"Howard, Mr. Benjamin",male,63.0,1.0,0.0,24065,26.0,,S,2.0,medium,old
-906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1.0,0.0,W.E.P. 5734,61.175,E31,S,2.0,medium,adult
-907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1.0,0.0,SC/PARIS 2167,27.7208,,C,2.0,medium,young
-908,2,"Keane, Mr. Daniel",male,35.0,0.0,0.0,233734,12.350000000000001,,Q,1.0,medium,adult
-909,3,"Assaf, Mr. Gerios",male,21.0,0.0,0.0,2692,7.225000000000005,,C,1.0,medium,teen
-910,3,"Ilmakangas, Miss. Ida Livija",female,27.0,1.0,0.0,STON/O2. 3101270,7.925000000000001,,S,2.0,medium,young
-911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0.0,0.0,2696,7.225000000000005,,C,1.0,medium,adult
-912,1,"Rothschild, Mr. Martin",male,55.0,1.0,0.0,PC 17603,59.39999999999999,,C,2.0,medium,old
-913,3,"Olsen, Master. Artur Karl",male,9.0,0.0,1.0,C 17368,3.1707999999999963,,S,2.0,medium,child
-914,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,47.027782961914774,0.0,0.0,PC 17598,31.6833,,S,1.0,medium,adult
-915,1,"Williams, Mr. Richard Norris II",male,21.0,0.0,1.0,PC 17597,61.3792,,C,2.0,medium,teen
-916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1.0,3.0,PC 17608,262.375,B57 B59 B63 B66,C,5.0,large,adult
-917,3,"Robins, Mr. Alexander A",male,50.0,1.0,0.0,A/5. 3337,14.5,,S,2.0,medium,old
-918,1,"Ostby, Miss. Helene Ragnhild",female,22.0,0.0,1.0,113509,61.9792,B36,C,2.0,medium,young
-919,3,"Daher, Mr. Shedid",male,22.5,0.0,0.0,2698,7.225000000000005,,C,1.0,medium,young
-920,1,"Brady, Mr. John Bertram",male,41.0,0.0,0.0,113054,30.5,A21,S,1.0,medium,adult
-921,3,"Samaan, Mr. Elias",male,22.78495789642016,2.0,0.0,2662,21.6792,,C,3.0,medium,young
-922,2,"Louch, Mr. Charles Alexander",male,50.0,1.0,0.0,SC/AH 3085,26.0,,S,2.0,medium,old
-923,2,"Jefferys, Mr. Clifford Thomas",male,24.0,2.0,0.0,C.A. 31029,31.5,,S,3.0,medium,young
-924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1.0,2.0,C.A. 2315,20.575,,S,4.0,large,adult
-925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,19.09143686502133,1.0,2.0,W./C. 6607,23.45,,S,4.0,large,teen
-926,1,"Mock, Mr. Philipp Edmund",male,30.0,1.0,0.0,13236,57.75,C78,C,2.0,medium,adult
-927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0.0,0.0,2682,7.229199999999999,,C,1.0,medium,teen
-928,3,"Roth, Miss. Sarah A",female,30.4,0.0,0.0,342712,8.05,,S,1.0,medium,adult
-929,3,"Cacic, Miss. Manda",female,21.0,0.0,0.0,315087,8.662500000000001,,S,1.0,medium,teen
-930,3,"Sap, Mr. Julius",male,25.0,0.0,0.0,345768,9.5,,S,1.0,medium,young
-931,3,"Hee, Mr. Ling",male,32.0,0.0,0.0,1601,56.4958,,S,1.0,medium,adult
-932,3,"Karun, Mr. Franz",male,39.0,0.0,1.0,349256,13.416699999999999,,C,2.0,medium,adult
-933,1,"Franklin, Mr. Thomas Parham",male,42.6,0.0,0.0,113778,26.55,D34,S,1.0,medium,adult
-934,3,"Goldsmith, Mr. Nathan",male,41.0,0.0,0.0,SOTON/O.Q. 3101263,7.850000000000001,,S,1.0,medium,adult
-935,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0.0,0.0,237249,13.0,,S,1.0,medium,adult
-936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1.0,0.0,11753,52.5542,D19,S,2.0,medium,adult
-937,3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0.0,0.0,STON/O 2. 3101291,7.925000000000001,,S,1.0,medium,young
-938,1,"Chevre, Mr. Paul Romaine",male,45.0,0.0,0.0,PC 17594,29.7,A9,C,1.0,medium,adult
-939,3,"Shaughnessy, Mr. Patrick",male,31.099999999999998,0.0,0.0,370374,7.75,,Q,1.0,medium,adult
-940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0.0,0.0,11813,76.2917,D15,C,1.0,medium,old
-941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0.0,2.0,C.A. 37671,15.899999999999999,,S,3.0,medium,adult
-942,1,"Smith, Mr. Lucien Philip",male,24.0,1.0,0.0,13695,60.0,C31,S,2.0,medium,young
-943,2,"Pulbaum, Mr. Franz",male,27.0,0.0,0.0,SC/PARIS 2168,15.0333,,C,1.0,medium,young
-944,2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2.0,1.0,29105,23.0,,S,4.0,large,teen
-945,1,"Fortune, Miss. Ethel Flora",female,28.0,3.0,2.0,19950,263.00000000000006,C23 C25 C27,S,6.0,large,young
-946,2,"Mangiavacchi, Mr. Serafino Emilio",male,36.07145844660042,0.0,0.0,SC/A.3 2861,15.5792,,C,1.0,medium,adult
-947,3,"Rice, Master. Albert",male,10.0,4.0,1.0,382652,29.125,,Q,6.0,large,child
-948,3,"Cor, Mr. Bartol",male,35.0,0.0,0.0,349230,7.895800000000001,,S,1.0,medium,adult
-949,3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0.0,0.0,348122,7.649999999999999,F G63,S,1.0,medium,young
-950,3,"Davison, Mr. Thomas Henry",male,26.666666666666668,1.0,0.0,386525,16.1,,S,2.0,medium,young
-951,1,"Chaudanson, Miss. Victorine",female,36.0,0.0,0.0,PC 17608,262.375,B61,C,1.0,medium,adult
-952,3,"Dika, Mr. Mirko",male,17.0,0.0,0.0,349232,7.895800000000001,,S,1.0,medium,teen
-953,2,"McCrae, Mr. Arthur Gordon",male,32.0,0.0,0.0,237216,13.5,,S,1.0,medium,adult
-954,3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0.0,0.0,347090,7.75,,S,1.0,medium,teen
-955,3,"Bradley, Miss. Bridget Delia",female,22.0,0.0,0.0,334914,7.725000000000001,,Q,1.0,medium,young
-956,1,"Ryerson, Master. John Borie",male,13.0,2.0,2.0,PC 17608,262.375,B57 B59 B63 B66,C,5.0,large,teen
-957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,35.0,0.0,0.0,F.C.C. 13534,21.0,,S,1.0,medium,adult
-958,3,"Burns, Miss. Mary Delia",female,18.0,0.0,0.0,330963,7.879200000000001,,Q,1.0,medium,teen
-959,1,"Moore, Mr. Clarence Bloomfield",male,47.0,0.0,0.0,113796,42.4,,S,1.0,medium,adult
-960,1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0.0,0.0,2543,28.5375,C53,C,1.0,medium,adult
-961,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1.0,4.0,19950,263.00000000000006,C23 C25 C27,S,6.0,large,old
-962,3,"Mulvihill, Miss. Bertha E",female,24.0,0.0,0.0,382653,7.75,,Q,1.0,medium,young
-963,3,"Minkoff, Mr. Lazar",male,21.0,0.0,0.0,349211,7.895800000000001,,S,1.0,medium,teen
-964,3,"Nieminen, Miss. Manta Josefina",female,29.0,0.0,0.0,3101297,7.925000000000001,,S,1.0,medium,young
-965,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0.0,0.0,PC 17562,27.7208,D43,C,1.0,medium,young
-966,1,"Geiger, Miss. Amalie",female,35.0,0.0,0.0,113503,211.5,C130,C,1.0,medium,adult
-967,1,"Keeping, Mr. Edwin",male,32.5,0.0,0.0,113503,211.5,C132,C,1.0,medium,adult
-968,3,"Miles, Mr. Frank",male,30.4,0.0,0.0,359306,8.05,,S,1.0,medium,adult
-969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2.0,0.0,11770,25.7,C101,S,3.0,medium,old
-970,2,"Aldworth, Mr. Charles Augustus",male,30.0,0.0,0.0,248744,13.0,,S,1.0,medium,adult
-971,3,"Doyle, Miss. Elizabeth",female,24.0,0.0,0.0,368702,7.75,,Q,1.0,medium,young
-972,3,"Boulos, Master. Akar",male,6.0,1.0,1.0,2678,15.2458,,C,3.0,medium,child
-973,1,"Straus, Mr. Isidor",male,67.0,1.0,0.0,PC 17483,221.7792,C55 C57,S,2.0,medium,old
-974,1,"Case, Mr. Howard Brown",male,49.0,0.0,0.0,19924,26.0,,S,1.0,medium,adult
-975,3,"Demetri, Mr. Marinko",male,28.6,0.0,0.0,349238,7.895800000000001,,S,1.0,medium,young
-976,2,"Lamb, Mr. John Joseph",male,42.24705037460851,0.0,0.0,240261,10.708300000000001,,Q,1.0,medium,adult
-977,3,"Khalil, Mr. Betros",male,20.75,1.0,0.0,2660,14.4542,,C,2.0,medium,teen
-978,3,"Barry, Miss. Julia",female,27.0,0.0,0.0,330844,7.879200000000001,,Q,1.0,medium,young
-979,3,"Badman, Miss. Emily Louisa",female,18.0,0.0,0.0,A/4 31416,8.05,,S,1.0,medium,teen
-980,3,"O'Donoghue, Ms. Bridget",female,31.099999999999998,0.0,0.0,364856,7.75,,Q,1.0,medium,adult
-981,2,"Wells, Master. Ralph Lester",male,2.0,1.0,1.0,29103,23.0,,S,3.0,medium,child
-982,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1.0,0.0,347072,13.899999999999999,,S,2.0,medium,young
-983,3,"Pedersen, Mr. Olaf",male,38.0,0.0,0.0,345498,7.774999999999999,,S,1.0,medium,adult
-984,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1.0,2.0,F.C. 12750,52.0,B71,S,4.0,large,young
-985,3,"Guest, Mr. Robert",male,30.4,0.0,0.0,376563,8.05,,S,1.0,medium,adult
-986,1,"Birnbaum, Mr. Jakob",male,25.0,0.0,0.0,13905,26.0,,C,1.0,medium,young
-987,3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0.0,0.0,350033,7.7958,,S,1.0,medium,young
-988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1.0,0.0,19877,78.85,C46,S,2.0,medium,old
-989,3,"Makinen, Mr. Kalle Edvard",male,29.0,0.0,0.0,STON/O 2. 3101268,7.925000000000001,,S,1.0,medium,young
-990,3,"Braf, Miss. Elin Ester Maria",female,20.0,0.0,0.0,347471,7.854199999999999,,S,1.0,medium,teen
-991,3,"Nancarrow, Mr. William Henry",male,33.0,0.0,0.0,A./5. 3338,8.05,,S,1.0,medium,adult
-992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1.0,0.0,11778,55.4417,C116,C,2.0,medium,adult
-993,2,"Weisz, Mr. Leopold",male,27.0,1.0,0.0,228414,26.0,,S,2.0,medium,young
-994,3,"Foley, Mr. William",male,31.099999999999998,0.0,0.0,365235,7.75,,Q,1.0,medium,adult
-995,3,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0.0,0.0,347070,7.774999999999999,,S,1.0,medium,young
-996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16.0,1.0,1.0,2625,8.5167,,C,3.0,medium,teen
-997,3,"Holthen, Mr. Johan Martin",male,28.0,0.0,0.0,C 4001,22.525,,S,1.0,medium,young
-998,3,"Buckley, Mr. Daniel",male,21.0,0.0,0.0,330920,7.820799999999998,,Q,1.0,medium,teen
-999,3,"Ryan, Mr. Edward",male,31.099999999999998,0.0,0.0,383162,7.75,,Q,1.0,medium,adult
-1000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,27.32374100711585,0.0,0.0,3410,8.712499999999999,,S,1.0,medium,young
-1001,2,"Swane, Mr. George",male,18.5,0.0,0.0,248734,13.0,F,S,1.0,medium,teen
-1002,2,"Stanton, Mr. Samuel Ward",male,41.0,0.0,0.0,237734,15.0458,,C,1.0,medium,adult
-1003,3,"Shine, Miss. Ellen Natalia",female,35.60000002995288,0.0,0.0,330968,7.7791999999999994,,Q,1.0,medium,adult
-1004,1,"Evans, Miss. Edith Corse",female,36.0,0.0,0.0,PC 17531,31.6792,A29,C,1.0,medium,adult
-1005,3,"Buckley, Miss. Katherine",female,18.5,0.0,0.0,329944,7.2833000000000006,,Q,1.0,medium,teen
-1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1.0,0.0,PC 17483,221.7792,C55 C57,S,2.0,medium,old
-1007,3,"Chronopoulos, Mr. Demetrios",male,18.0,1.0,0.0,2680,14.4542,,C,2.0,medium,teen
-1008,3,"Thomas, Mr. John",male,34.5,0.0,0.0,2681,6.4375,,C,1.0,medium,adult
-1009,3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1.0,1.0,PP 9549,16.7,G6,S,3.0,medium,child
-1010,1,"Beattie, Mr. Thomson",male,36.0,0.0,0.0,13050,75.2417,C6,C,1.0,medium,adult
-1011,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1.0,0.0,SC/AH 29037,26.0,,S,2.0,medium,young
-1012,2,"Watt, Miss. Bertha J",female,12.0,0.0,0.0,C.A. 33595,15.75,,S,1.0,medium,child
-1013,3,"Kiernan, Mr. John",male,24.542603240980313,1.0,0.0,367227,7.75,,Q,2.0,medium,young
-1014,1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1.0,0.0,13236,57.75,C28,C,2.0,medium,adult
-1015,3,"Carver, Mr. Alfred John",male,28.0,0.0,0.0,392095,7.25,,S,1.0,medium,young
-1016,3,"Kennedy, Mr. John",male,31.099999999999998,0.0,0.0,368783,7.75,,Q,1.0,medium,adult
-1017,3,"Cribb, Miss. Laura Alice",female,17.0,0.0,1.0,371362,16.1,,S,2.0,medium,teen
-1018,3,"Brobeck, Mr. Karl Rudolf",male,22.0,0.0,0.0,350045,7.7958,,S,1.0,medium,young
-1019,3,"McCoy, Miss. Alicia",female,23.598831767293994,2.0,0.0,367226,23.25,,Q,3.0,medium,young
-1020,2,"Bowenur, Mr. Solomon",male,42.0,0.0,0.0,211535,13.0,,S,1.0,medium,adult
-1021,3,"Petersen, Mr. Marius",male,24.0,0.0,0.0,342441,8.05,,S,1.0,medium,young
-1022,3,"Spinner, Mr. Henry John",male,32.0,0.0,0.0,STON/OQ. 369943,8.05,,S,1.0,medium,adult
-1023,1,"Gracie, Col. Archibald IV",male,53.0,0.0,0.0,113780,28.5,C51,C,1.0,medium,old
-1024,3,"Lefebre, Mrs. Frank (Frances)",female,31.2326546091272,0.0,4.0,4133,25.4667,,S,5.0,large,adult
-1025,3,"Thomas, Mr. Charles P",male,19.1885031012489,1.0,0.0,2621,6.4375,,C,2.0,medium,teen
-1026,3,"Dintcheff, Mr. Valtcho",male,43.0,0.0,0.0,349226,7.895800000000001,,S,1.0,medium,adult
-1027,3,"Carlsson, Mr. Carl Robert",male,24.0,0.0,0.0,350409,7.854199999999999,,S,1.0,medium,young
-1028,3,"Zakarian, Mr. Mapriededer",male,26.5,0.0,0.0,2656,7.225000000000005,,C,1.0,medium,young
-1029,2,"Schmidt, Mr. August",male,26.0,0.0,0.0,248659,13.0,,S,1.0,medium,young
-1030,3,"Drapkin, Miss. Jennie",female,23.0,0.0,0.0,SOTON/OQ 392083,8.05,,S,1.0,medium,young
-1031,3,"Goodwin, Mr. Charles Frederick",male,40.0,1.0,6.0,CA 2144,46.9,,S,8.0,large,adult
-1032,3,"Goodwin, Miss. Jessie Allis",female,10.0,5.0,2.0,CA 2144,46.9,,S,8.0,large,child
-1033,1,"Daniels, Miss. Sarah",female,33.0,0.0,0.0,113781,151.55,,S,1.0,medium,adult
-1034,1,"Ryerson, Mr. Arthur Larned",male,61.0,1.0,3.0,PC 17608,262.375,B57 B59 B63 B66,C,5.0,large,old
-1035,2,"Beauchamp, Mr. Henry James",male,28.0,0.0,0.0,244358,26.0,,S,1.0,medium,young
-1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0.0,0.0,17475,26.55,,S,1.0,medium,adult
-1037,3,"Vander Planke, Mr. Julius",male,31.0,3.0,0.0,345763,18.0,,S,4.0,large,adult
-1038,1,"Hilliard, Mr. Herbert Henry",male,54.0,0.0,0.0,17463,51.8625,E46,S,1.0,medium,old
-1039,3,"Davies, Mr. Evan",male,22.0,0.0,0.0,SC/A4 23568,8.05,,S,1.0,medium,young
-1040,1,"Crafton, Mr. John Bertram",male,42.6,0.0,0.0,113791,26.55,,S,1.0,medium,adult
-1041,2,"Lahtinen, Rev. William",male,30.0,1.0,1.0,250651,26.0,,S,3.0,medium,adult
-1042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0.0,1.0,11767,83.1583,C54,C,2.0,medium,young
-1043,3,"Matinoff, Mr. Nicola",male,28.6,0.0,0.0,349255,7.895800000000001,,C,1.0,medium,young
-1044,3,"Storey, Mr. Thomas",male,60.5,0.0,0.0,3701,15.790000000000003,,S,1.0,medium,old
-1045,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0.0,2.0,350405,12.1833,,S,3.0,medium,adult
-1046,3,"Asplund, Master. Filip Oscar",male,13.0,4.0,2.0,347077,31.3875,,S,7.0,large,teen
-1047,3,"Duquemin, Mr. Joseph",male,24.0,0.0,0.0,S.O./P.P. 752,7.550000000000001,,S,1.0,medium,young
-1048,1,"Bird, Miss. Ellen",female,29.0,0.0,0.0,PC 17483,221.7792,C97,S,1.0,medium,young
-1049,3,"Lundin, Miss. Olga Elida",female,23.0,0.0,0.0,347469,7.854199999999999,,S,1.0,medium,young
-1050,1,"Borebank, Mr. John James",male,42.0,0.0,0.0,110489,26.55,D22,S,1.0,medium,adult
-1051,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0.0,2.0,SOTON/O.Q. 3101315,13.774999999999999,,S,3.0,medium,young
-1052,3,"Smyth, Miss. Julia",female,21.0,0.0,0.0,335432,7.7333,,Q,1.0,medium,teen
-1053,3,"Touma, Master. Georges Youssef",male,7.0,1.0,1.0,2650,15.2458,,C,3.0,medium,child
-1054,2,"Wright, Miss. Marion",female,26.0,0.0,0.0,220844,13.5,,S,1.0,medium,young
-1055,3,"Pearce, Mr. Ernest",male,31.857142855531585,0.0,0.0,343271,7.0,,S,1.0,medium,adult
-1056,2,"Peruschitz, Rev. Joseph Maria",male,41.0,0.0,0.0,237393,13.0,,S,1.0,medium,adult
-1057,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1.0,1.0,315153,22.025,,S,3.0,medium,young
-1058,1,"Brandeis, Mr. Emil",male,48.0,0.0,0.0,PC 17591,50.4958,B10,C,1.0,medium,adult
-1059,3,"Ford, Mr. Edward Watson",male,18.0,2.0,2.0,W./C. 6608,34.375,,S,5.0,large,teen
-1060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,40.0,0.0,0.0,17770,27.7208,,C,1.0,medium,adult
-1061,3,"Hellstrom, Miss. Hilda Maria",female,22.0,0.0,0.0,7548,8.962499999999999,,S,1.0,medium,young
-1062,3,"Lithman, Mr. Simon",male,32.5,0.0,0.0,S.O./P.P. 251,7.550000000000001,,S,1.0,medium,adult
-1063,3,"Zakarian, Mr. Ortin",male,27.0,0.0,0.0,2670,7.225000000000005,,C,1.0,medium,young
-1064,3,"Dyker, Mr. Adolf Fredrik",male,23.0,1.0,0.0,347072,13.899999999999999,,S,2.0,medium,young
-1065,3,"Torfa, Mr. Assad",male,24.8,0.0,0.0,2673,7.229199999999999,,C,1.0,medium,young
-1066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1.0,5.0,347077,31.3875,,S,7.0,large,adult
-1067,2,"Brown, Miss. Edith Eileen",female,15.0,0.0,2.0,29750,39.0,,S,3.0,medium,teen
-1068,2,"Sincock, Miss. Maude",female,20.0,0.0,0.0,C.A. 33112,36.75,,S,1.0,medium,teen
-1069,1,"Stengel, Mr. Charles Emil Henry",male,54.0,1.0,0.0,11778,55.4417,C116,C,2.0,medium,old
-1070,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0.0,3.0,230136,39.0,F4,S,4.0,large,adult
-1071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0.0,2.0,PC 17756,83.1583,E45,C,3.0,medium,old
-1072,2,"McCrie, Mr. James Matthew",male,30.0,0.0,0.0,233478,13.0,,S,1.0,medium,adult
-1073,1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1.0,1.0,PC 17756,83.1583,E52,C,3.0,medium,adult
-1074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1.0,0.0,113773,53.1,D30,S,2.0,medium,teen
-1075,3,"Lane, Mr. Patrick",male,31.099999999999998,0.0,0.0,7935,7.75,,Q,1.0,medium,adult
-1076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1.0,1.0,PC 17558,247.52080000000007,B58 B60,C,3.0,medium,young
-1077,2,"Maybery, Mr. Frank Hubert",male,40.0,0.0,0.0,239059,16.0,,S,1.0,medium,adult
-1078,2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0.0,1.0,S.O./P.P. 2,21.0,,S,2.0,medium,teen
-1079,3,"Davies, Mr. Joseph",male,17.0,2.0,0.0,A/4 48873,8.05,,S,3.0,medium,teen
-1080,3,"Sage, Miss. Ada",female,10.2,7.999999999999999,2.0,CA. 2343,69.55,,S,11.0,large,child
-1081,2,"Veal, Mr. James",male,40.0,0.0,0.0,28221,13.0,,S,1.0,medium,adult
-1082,2,"Angle, Mr. William A",male,34.0,1.0,0.0,226875,26.0,,S,2.0,medium,adult
-1083,1,"Salomon, Mr. Abraham L",male,32.6,0.0,0.0,111163,26.0,,S,1.0,medium,adult
-1084,3,"van Billiard, Master. Walter John",male,11.5,1.0,1.0,A/5. 851,14.5,,S,3.0,medium,child
-1085,2,"Lingane, Mr. John",male,61.0,0.0,0.0,235509,12.350000000000001,,Q,1.0,medium,old
-1086,2,"Drew, Master. Marshall Brines",male,8.0,0.0,2.0,28220,32.5,,S,3.0,medium,child
-1087,3,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0.0,0.0,347465,7.854199999999999,,S,1.0,medium,adult
-1088,1,"Spedden, Master. Robert Douglas",male,6.0,0.0,2.0,16966,134.5,E34,C,3.0,medium,child
-1089,3,"Nilsson, Miss. Berta Olivia",female,18.0,0.0,0.0,347066,7.774999999999999,,S,1.0,medium,teen
-1090,2,"Baimbrigge, Mr. Charles Robert",male,23.0,0.0,0.0,C.A. 31030,10.5,,S,1.0,medium,young
-1091,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,38.106634107638044,0.0,0.0,65305,8.1125,,S,1.0,medium,adult
-1092,3,"Murphy, Miss. Nora",female,37.88554149816553,0.0,0.0,36568,15.5,,Q,1.0,medium,adult
-1093,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3299999999999983,0.0,2.0,347080,14.399999999999999,,S,3.0,medium,child
-1094,1,"Astor, Col. John Jacob",male,47.0,1.0,0.0,PC 17757,227.52499999999998,C62 C64,C,2.0,medium,adult
-1095,2,"Quick, Miss. Winifred Vera",female,8.0,1.0,1.0,26360,26.0,,S,3.0,medium,child
-1096,2,"Andrew, Mr. Frank Thomas",male,25.0,0.0,0.0,C.A. 34050,10.5,,S,1.0,medium,young
-1097,1,"Omont, Mr. Alfred Fernand",male,44.3769175397045,0.0,0.0,F.C. 12998,25.7417,,C,1.0,medium,adult
-1098,3,"McGowan, Miss. Katherine",female,35.0,0.0,0.0,9232,7.75,,Q,1.0,medium,adult
-1099,2,"Collett, Mr. Sidney C Stuart",male,24.0,0.0,0.0,28034,10.5,,S,1.0,medium,young
-1100,1,"Rosenbaum, Miss. Edith Louise",female,33.0,0.0,0.0,PC 17613,27.7208,A11,C,1.0,medium,adult
-1101,3,"Delalic, Mr. Redjo",male,25.0,0.0,0.0,349250,7.895800000000001,,S,1.0,medium,young
-1102,3,"Andersen, Mr. Albert Karvin",male,32.0,0.0,0.0,C 4001,22.525,,S,1.0,medium,adult
-1103,3,"Finoli, Mr. Luigi",male,28.6,0.0,0.0,SOTON/O.Q. 3101308,7.050000000000001,,S,1.0,medium,young
-1104,2,"Deacon, Mr. Percy William",male,17.0,0.0,0.0,S.O.C. 14879,73.5,,S,1.0,medium,teen
-1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1.0,0.0,24065,26.0,,S,2.0,medium,old
-1106,3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4.0,2.0,347091,7.774999999999999,,S,7.0,large,adult
-1107,1,"Head, Mr. Christopher",male,42.0,0.0,0.0,113038,42.5,B11,S,1.0,medium,adult
-1108,3,"Mahon, Miss. Bridget Delia",female,19.00336586800311,0.0,0.0,330924,7.879200000000001,,Q,1.0,medium,teen
-1109,1,"Wick, Mr. George Dennick",male,57.0,1.0,1.0,36928,164.86669999999998,,S,3.0,medium,old
-1110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1.0,1.0,113503,211.5,C80,C,3.0,medium,old
-1111,3,"Thomson, Mr. Alexander Morrison",male,30.4,0.0,0.0,32302,8.05,,S,1.0,medium,adult
-1112,2,"Duran y More, Miss. Florentina",female,30.0,1.0,0.0,SC/PARIS 2148,13.8583,,C,2.0,medium,adult
-1113,3,"Reynolds, Mr. Harold J",male,21.0,0.0,0.0,342684,8.05,,S,1.0,medium,teen
-1114,2,"Cook, Mrs. (Selena Rogers)",female,22.0,0.0,0.0,W./C. 14266,10.5,F33,S,1.0,medium,young
-1115,3,"Karlsson, Mr. Einar Gervasius",male,21.0,0.0,0.0,350053,7.7958,,S,1.0,medium,teen
-1116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0.0,0.0,PC 17606,27.4458,,C,1.0,medium,old
-1117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,29.0,0.0,2.0,2661,15.2458,,C,3.0,medium,young
-1118,3,"Asplund, Mr. Johan Charles",male,23.0,0.0,0.0,350054,7.7958,,S,1.0,medium,young
-1119,3,"McNeill, Miss. Bridget",female,31.099999999999998,0.0,0.0,370368,7.75,,Q,1.0,medium,adult
-1120,3,"Everett, Mr. Thomas James",male,40.5,0.0,0.0,C.A. 6212,15.100000000000001,,S,1.0,medium,adult
-1121,2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0.0,0.0,242963,13.0,,S,1.0,medium,adult
-1122,2,"Sweet, Mr. George Frederick",male,14.000000000000002,0.0,0.0,220845,65.0,,S,1.0,medium,teen
-1123,1,"Willard, Miss. Constance",female,21.0,0.0,0.0,113795,26.55,,S,1.0,medium,teen
-1124,3,"Wiklund, Mr. Karl Johan",male,21.0,1.0,0.0,3101266,6.495800000000003,,S,2.0,medium,teen
-1125,3,"Linehan, Mr. Michael",male,19.00336586800311,0.0,0.0,330971,7.879200000000001,,Q,1.0,medium,teen
-1126,1,"Cumings, Mr. John Bradley",male,39.0,1.0,0.0,PC 17599,71.2833,C85,C,2.0,medium,adult
-1127,3,"Vendel, Mr. Olof Edvin",male,20.0,0.0,0.0,350416,7.854199999999999,,S,1.0,medium,teen
-1128,1,"Warren, Mr. Frank Manley",male,64.0,1.0,0.0,110813,75.25,D37,C,2.0,medium,old
-1129,3,"Baccos, Mr. Raffull",male,20.0,0.0,0.0,2679,7.225000000000005,,C,1.0,medium,teen
-1130,2,"Hiltunen, Miss. Marta",female,18.0,1.0,1.0,250650,13.0,,S,3.0,medium,teen
-1131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1.0,0.0,PC 17761,106.425,C86,C,2.0,medium,adult
-1132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0.0,0.0,112377,27.7208,,C,1.0,medium,old
-1133,2,"Christy, Mrs. (Alice Frances)",female,45.0,0.0,2.0,237789,30.0,,S,3.0,medium,adult
-1134,1,"Spedden, Mr. Frederic Oakley",male,45.0,1.0,1.0,16966,134.5,E34,C,3.0,medium,adult
-1135,3,"Hyman, Mr. Abraham",male,26.00040120923874,0.0,0.0,3470,7.887499999999999,,S,1.0,medium,young
-1136,3,"Johnston, Master. William Arthur Willie""""",male,19.09143686502133,1.0,2.0,W./C. 6607,23.45,,S,4.0,large,teen
-1137,1,"Kenyon, Mr. Frederick R",male,41.0,1.0,0.0,17464,51.8625,D21,S,2.0,medium,adult
-1138,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0.0,0.0,F.C.C. 13534,21.0,,S,1.0,medium,young
-1139,2,"Drew, Mr. James Vivian",male,42.0,1.0,1.0,28220,32.5,,S,3.0,medium,adult
-1140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1.0,0.0,26707,26.0,,S,2.0,medium,young
-1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,20.75,1.0,0.0,2660,14.4542,,C,2.0,medium,teen
-1142,2,"West, Miss. Barbara J",female,0.9200000000000017,1.0,2.0,C.A. 34651,27.75,,S,4.0,large,child
-1143,3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0.0,0.0,SOTON/O2 3101284,7.925000000000001,,S,1.0,medium,teen
-1144,1,"Clark, Mr. Walter Miller",male,27.0,1.0,0.0,13508,136.7792,C89,C,2.0,medium,young
-1145,3,"Salander, Mr. Karl Johan",male,24.0,0.0,0.0,7266,9.325,,S,1.0,medium,young
-1146,3,"Wenzel, Mr. Linhart",male,32.5,0.0,0.0,345775,9.5,,S,1.0,medium,adult
-1147,3,"MacKay, Mr. George William",male,32.5,0.0,0.0,C.A. 42795,7.550000000000001,,S,1.0,medium,adult
-1148,3,"Mahon, Mr. John",male,31.099999999999998,0.0,0.0,AQ/4 3130,7.75,,Q,1.0,medium,adult
-1149,3,"Niklasson, Mr. Samuel",male,28.0,0.0,0.0,363611,8.05,,S,1.0,medium,young
-1150,2,"Bentham, Miss. Lilian W",female,19.0,0.0,0.0,28404,13.0,,S,1.0,medium,teen
-1151,3,"Midtsjo, Mr. Karl Albert",male,21.0,0.0,0.0,345501,7.774999999999999,,S,1.0,medium,teen
-1152,3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1.0,0.0,345572,17.4,,S,2.0,medium,adult
-1153,3,"Nilsson, Mr. August Ferdinand",male,21.0,0.0,0.0,350410,7.854199999999999,,S,1.0,medium,teen
-1154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0.0,2.0,29103,23.0,,S,3.0,medium,young
-1155,3,"Klasen, Miss. Gertrud Emilia",female,1.0,1.0,1.0,350405,12.1833,,S,3.0,medium,child
-1156,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0.0,0.0,C.A. 34644,12.7375,,C,1.0,medium,adult
-1157,3,"Lyntakoff, Mr. Stanko",male,28.6,0.0,0.0,349235,7.895800000000001,,S,1.0,medium,young
-1158,1,"Chisholm, Mr. Roderick Robert Crispin",male,37.0,0.0,0.0,112051,0.0,,S,1.0,medium,adult
-1159,3,"Warren, Mr. Charles William",male,32.5,0.0,0.0,C.A. 49867,7.550000000000001,,S,1.0,medium,adult
-1160,3,"Howard, Miss. May Elizabeth",female,30.4,0.0,0.0,A. 2. 39186,8.05,,S,1.0,medium,adult
-1161,3,"Pokrnic, Mr. Mate",male,17.0,0.0,0.0,315095,8.662500000000001,,S,1.0,medium,teen
-1162,1,"McCaffry, Mr. Thomas Francis",male,46.0,0.0,0.0,13050,75.2417,C6,C,1.0,medium,adult
-1163,3,"Fox, Mr. Patrick",male,31.099999999999998,0.0,0.0,368573,7.75,,Q,1.0,medium,adult
-1164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1.0,0.0,13508,136.7792,C89,C,2.0,medium,young
-1165,3,"Lennon, Miss. Mary",female,33.181102362283475,1.0,0.0,370371,15.5,,Q,2.0,medium,adult
-1166,3,"Saade, Mr. Jean Nassr",male,29.0,0.0,0.0,2676,7.225000000000005,,C,1.0,medium,young
-1167,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1.0,0.0,236853,26.0,,S,2.0,medium,teen
-1168,2,"Parker, Mr. Clifford Richard",male,28.0,0.0,0.0,SC 14888,10.5,,S,1.0,medium,young
-1169,2,"Faunthorpe, Mr. Harry",male,40.0,1.0,0.0,2926,26.0,,S,2.0,medium,adult
-1170,2,"Ware, Mr. John James",male,30.0,1.0,0.0,CA 31352,21.0,,S,2.0,medium,adult
-1171,2,"Oxenham, Mr. Percy Thomas",male,22.0,0.0,0.0,W./C. 14260,10.5,,S,1.0,medium,young
-1172,3,"Oreskovic, Miss. Jelka",female,23.0,0.0,0.0,315085,8.662500000000001,,S,1.0,medium,young
-1173,3,"Peacock, Master. Alfred Edward",male,0.75,1.0,1.0,SOTON/O.Q. 3101315,13.774999999999999,,S,3.0,medium,child
-1174,3,"Fleming, Miss. Honora",female,31.099999999999998,0.0,0.0,364859,7.75,,Q,1.0,medium,adult
-1175,3,"Touma, Miss. Maria Youssef",female,9.0,1.0,1.0,2650,15.2458,,C,3.0,medium,child
-1176,3,"Rosblom, Miss. Salli Helena",female,2.0,1.0,1.0,370129,20.2125,,S,3.0,medium,child
-1177,3,"Dennis, Mr. William",male,36.0,0.0,0.0,A/5 21175,7.25,,S,1.0,medium,adult
-1178,3,"Franklin, Mr. Charles (Charles Fardon)",male,26.7,0.0,0.0,SOTON/O.Q. 3101314,7.25,,S,1.0,medium,young
-1179,1,"Snyder, Mr. John Pillsbury",male,24.0,1.0,0.0,21228,82.26670000000001,B45,S,2.0,medium,young
-1180,3,"Mardirosian, Mr. Sarkis",male,24.8,0.0,0.0,2655,7.229199999999999,F E46,C,1.0,medium,young
-1181,3,"Ford, Mr. Arthur",male,30.4,0.0,0.0,A/5 1478,8.05,,S,1.0,medium,adult
-1182,1,"Rheims, Mr. George Alexander Lucien",male,40.265038713519914,0.0,0.0,PC 17607,39.6,,S,1.0,medium,adult
-1183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0.0,0.0,382650,6.949999999999996,,Q,1.0,medium,adult
-1184,3,"Nasr, Mr. Mustafa",male,24.8,0.0,0.0,2652,7.229199999999999,,C,1.0,medium,young
-1185,1,"Dodge, Dr. Washington",male,53.0,1.0,1.0,33638,81.8583,A34,S,3.0,medium,old
-1186,3,"Wittevrongel, Mr. Camille",male,36.0,0.0,0.0,345771,9.5,,S,1.0,medium,adult
-1187,3,"Angheloff, Mr. Minko",male,26.0,0.0,0.0,349202,7.895800000000001,,S,1.0,medium,young
-1188,2,"Laroche, Miss. Louise",female,1.0,1.0,2.0,SC/Paris 2123,41.5792,,C,4.0,large,child
-1189,3,"Samaan, Mr. Hanna",male,22.78495789642016,2.0,0.0,2662,21.6792,,C,3.0,medium,young
-1190,1,"Loring, Mr. Joseph Holland",male,30.0,0.0,0.0,113801,45.5,,S,1.0,medium,adult
-1191,3,"Johansson, Mr. Nils",male,29.0,0.0,0.0,347467,7.854199999999999,,S,1.0,medium,young
-1192,3,"Olsson, Mr. Oscar Wilhelm",male,32.0,0.0,0.0,347079,7.774999999999999,,S,1.0,medium,adult
-1193,2,"Malachard, Mr. Noel",male,23.000138837967985,0.0,0.0,237735,15.0458,D,C,1.0,medium,young
-1194,2,"Phillips, Mr. Escott Robert",male,43.0,0.0,1.0,S.O./P.P. 2,21.0,,S,2.0,medium,adult
-1195,3,"Pokrnic, Mr. Tome",male,24.0,0.0,0.0,315092,8.662500000000001,,S,1.0,medium,young
-1196,3,"McCarthy, Miss. Catherine Katie""""",female,31.099999999999998,0.0,0.0,383123,7.75,,Q,1.0,medium,adult
-1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1.0,1.0,112901,26.55,B26,S,3.0,medium,old
-1198,1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1.0,2.0,113781,151.55,C22 C26,S,4.0,large,adult
-1199,3,"Aks, Master. Philip Frank",male,0.8299999999999983,0.0,1.0,392091,9.350000000000001,,S,2.0,medium,child
-1200,1,"Hays, Mr. Charles Melville",male,55.0,1.0,1.0,12749,93.5,B69,S,3.0,medium,old
-1201,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1.0,0.0,350026,14.1083,,S,2.0,medium,adult
-1202,3,"Cacic, Mr. Jego Grga",male,18.0,0.0,0.0,315091,8.662500000000001,,S,1.0,medium,teen
-1203,3,"Vartanian, Mr. David",male,22.0,0.0,0.0,2658,7.225000000000005,,C,1.0,medium,young
-1204,3,"Sadowitz, Mr. Harry",male,28.92685804108234,0.0,0.0,LP 1588,7.574999999999999,,S,1.0,medium,young
-1205,3,"Carr, Miss. Jeannie",female,37.0,0.0,0.0,368364,7.75,,Q,1.0,medium,adult
-1206,1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0.0,0.0,PC 17760,135.63330000000002,C32,C,1.0,medium,old
-1207,3,"Hagardon, Miss. Kate",female,17.0,0.0,0.0,AQ/3. 30631,7.7333,,Q,1.0,medium,teen
-1208,1,"Spencer, Mr. William Augustus",male,57.0,1.0,0.0,PC 17569,146.5208,B78,C,2.0,medium,old
-1209,2,"Rogers, Mr. Reginald Harry",male,19.0,0.0,0.0,28004,10.5,,S,1.0,medium,teen
-1210,3,"Jonsson, Mr. Nils Hilding",male,27.0,0.0,0.0,350408,7.854199999999999,,S,1.0,medium,young
-1211,2,"Jefferys, Mr. Ernest Wilfred",male,22.0,2.0,0.0,C.A. 31029,31.5,,S,3.0,medium,young
-1212,3,"Andersson, Mr. Johan Samuel",male,26.0,0.0,0.0,347075,7.774999999999999,,S,1.0,medium,young
-1213,3,"Krekorian, Mr. Neshan",male,25.0,0.0,0.0,2654,7.229199999999999,F E57,C,1.0,medium,young
-1214,2,"Nesson, Mr. Israel",male,26.0,0.0,0.0,244368,13.0,F2,S,1.0,medium,young
-1215,1,"Rowe, Mr. Alfred G",male,33.0,0.0,0.0,113790,26.55,,S,1.0,medium,adult
-1216,1,"Kreuchen, Miss. Emilie",female,39.0,0.0,0.0,24160,211.33749999999998,,S,1.0,medium,adult
-1217,3,"Assam, Mr. Ali",male,23.0,0.0,0.0,SOTON/O.Q. 3101309,7.050000000000001,,S,1.0,medium,young
-1218,2,"Becker, Miss. Ruth Elizabeth",female,12.0,2.0,1.0,230136,39.0,F4,S,4.0,large,child
-1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46.0,0.0,0.0,PC 17585,79.2,,C,1.0,medium,adult
-1220,2,"Clarke, Mr. Charles Valentine",male,29.0,1.0,0.0,2003,26.0,,S,2.0,medium,young
-1221,2,"Enander, Mr. Ingvar",male,21.0,0.0,0.0,236854,13.0,,S,1.0,medium,teen
-1222,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0.0,2.0,C.A. 33112,36.75,,S,3.0,medium,adult
-1223,1,"Dulles, Mr. William Crothers",male,39.0,0.0,0.0,PC 17580,29.7,A18,C,1.0,medium,adult
-1224,3,"Thomas, Mr. Tannous",male,29.0,0.0,0.0,2684,7.225000000000005,,C,1.0,medium,young
-1225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1.0,1.0,2653,15.741700000000002,,C,3.0,medium,teen
-1226,3,"Cor, Mr. Ivan",male,27.0,0.0,0.0,349229,7.895800000000001,,S,1.0,medium,young
-1227,1,"Maguire, Mr. John Edward",male,30.0,0.0,0.0,110469,26.0,C106,S,1.0,medium,adult
-1228,2,"de Brito, Mr. Jose Joaquim",male,32.0,0.0,0.0,244360,13.0,,S,1.0,medium,adult
-1229,3,"Elias, Mr. Joseph",male,39.0,0.0,2.0,2675,7.229199999999999,,C,3.0,medium,adult
-1230,2,"Denbury, Mr. Herbert",male,25.0,0.0,0.0,C.A. 31029,31.5,,S,1.0,medium,young
-1231,3,"Betros, Master. Seman",male,24.8,0.0,0.0,2622,7.229199999999999,,C,1.0,medium,young
-1232,2,"Fillbrook, Mr. Joseph Charles",male,18.0,0.0,0.0,C.A. 15185,10.5,,S,1.0,medium,teen
-1233,3,"Lundstrom, Mr. Thure Edvin",male,32.0,0.0,0.0,350403,7.5792,,S,1.0,medium,adult
-1234,3,"Sage, Mr. John George",male,40.18886342411659,1.0,9.0,CA. 2343,69.55,,S,11.0,large,adult
-1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0.0,1.0,PC 17755,512.3292,B51 B53 B55,C,2.0,medium,old
-1236,3,"van Billiard, Master. James William",male,0.6709725721038389,1.0,1.0,A/5. 851,14.5,,S,3.0,medium,child
-1237,3,"Abelseth, Miss. Karen Marie",female,16.0,0.0,0.0,348125,7.649999999999999,,S,1.0,medium,teen
-1238,2,"Botsford, Mr. William Hull",male,26.0,0.0,0.0,237670,13.0,,S,1.0,medium,young
-1239,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0.0,0.0,2688,7.229199999999999,,C,1.0,medium,adult
-1240,2,"Giles, Mr. Ralph",male,24.0,0.0,0.0,248726,13.5,,S,1.0,medium,young
-1241,2,"Walcroft, Miss. Nellie",female,31.0,0.0,0.0,F.C.C. 13528,21.0,,S,1.0,medium,adult
-1242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0.0,1.0,PC 17759,63.3583,D10 D12,C,2.0,medium,adult
-1243,2,"Stokes, Mr. Philip Joseph",male,25.0,0.0,0.0,F.C.C. 13540,10.5,,S,1.0,medium,young
-1244,2,"Dibden, Mr. William",male,18.0,0.0,0.0,S.O.C. 14879,73.5,,S,1.0,medium,teen
-1245,2,"Herman, Mr. Samuel",male,49.0,1.0,2.0,220845,65.0,,S,4.0,large,adult
-1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.1700000000000017,1.0,2.0,C.A. 2315,20.575,,S,4.0,large,child
-1247,1,"Julian, Mr. Henry Forbes",male,50.0,0.0,0.0,113044,26.0,E60,S,1.0,medium,old
-1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2.0,0.0,11769,51.4792,C101,S,3.0,medium,old
-1249,3,"Lockyer, Mr. Edward",male,19.00336586800311,0.0,0.0,1222,7.879200000000001,,S,1.0,medium,teen
-1250,3,"O'Keefe, Mr. Patrick",male,31.099999999999998,0.0,0.0,368402,7.75,,Q,1.0,medium,adult
-1251,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1.0,0.0,349910,15.55,,S,2.0,medium,adult
-1252,3,"Sage, Master. William Henry",male,14.499999999999998,7.999999999999999,2.0,CA. 2343,69.55,,S,11.0,large,teen
-1253,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1.0,1.0,S.C./PARIS 2079,37.0042,,C,3.0,medium,young
-1254,2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0.0,0.0,CA 31352,21.0,,S,1.0,medium,adult
-1255,3,"Strilic, Mr. Ivan",male,27.0,0.0,0.0,315083,8.662500000000001,,S,1.0,medium,young
-1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1.0,0.0,11765,55.4417,E50,C,2.0,medium,young
-1257,3,"Sage, Mrs. John (Annie Bullen)",female,40.18886342411659,1.0,9.0,CA. 2343,69.55,,S,11.0,large,adult
-1258,3,"Caram, Mr. Joseph",male,21.25775309868429,1.0,0.0,2689,14.458300000000001,,C,2.0,medium,teen
-1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0.0,0.0,3101295,39.6875,,S,1.0,medium,young
-1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0.0,1.0,112378,59.39999999999999,,C,2.0,medium,adult
-1261,2,"Pallas y Castello, Mr. Emilio",male,29.0,0.0,0.0,SC/PARIS 2147,13.8583,,C,1.0,medium,young
-1262,2,"Giles, Mr. Edgar",male,21.0,1.0,0.0,28133,11.5,,S,2.0,medium,teen
-1263,1,"Wilson, Miss. Helen Alice",female,31.0,0.0,0.0,16966,134.5,E39 E41,C,1.0,medium,adult
-1264,1,"Ismay, Mr. Joseph Bruce",male,49.0,0.0,0.0,112058,0.0,B52 B54 B56,S,1.0,medium,adult
-1265,2,"Harbeck, Mr. William H",male,44.0,0.0,0.0,248746,13.0,,S,1.0,medium,adult
-1266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1.0,1.0,33638,81.8583,A34,S,3.0,medium,old
-1267,1,"Bowen, Miss. Grace Scott",female,45.0,0.0,0.0,PC 17608,262.375,,C,1.0,medium,adult
-1268,3,"Kink, Miss. Maria",female,22.0,2.0,0.0,315152,8.662500000000001,,S,3.0,medium,young
-1269,2,"Cotterill, Mr. Henry Harry""""",male,21.0,0.0,0.0,29107,11.5,,S,1.0,medium,teen
-1270,1,"Hipkins, Mr. William Edward",male,55.0,0.0,0.0,680,50.0,C39,S,1.0,medium,old
-1271,3,"Asplund, Master. Carl Edgar",male,5.0,4.0,2.0,347077,31.3875,,S,7.0,large,child
-1272,3,"O'Connor, Mr. Patrick",male,31.099999999999998,0.0,0.0,366713,7.75,,Q,1.0,medium,adult
-1273,3,"Foley, Mr. Joseph",male,26.0,0.0,0.0,330910,7.879200000000001,,Q,1.0,medium,young
-1274,3,"Risien, Mrs. Samuel (Emma)",female,19.0,0.0,0.0,364498,14.5,,S,1.0,medium,teen
-1275,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1.0,0.0,376566,16.1,,S,2.0,medium,teen
-1276,2,"Wheeler, Mr. Edwin Frederick""""",male,36.0,0.0,0.0,SC/PARIS 2159,12.875,,S,1.0,medium,adult
-1277,2,"Herman, Miss. Kate",female,24.0,1.0,2.0,220845,65.0,,S,4.0,large,young
-1278,3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0.0,0.0,349911,7.774999999999999,,S,1.0,medium,young
-1279,2,"Ashby, Mr. John",male,57.0,0.0,0.0,244346,13.0,,S,1.0,medium,old
-1280,3,"Canavan, Mr. Patrick",male,21.0,0.0,0.0,364858,7.75,,Q,1.0,medium,teen
-1281,3,"Palsson, Master. Paul Folke",male,6.0,3.0,1.0,349909,21.075,,S,5.0,large,child
-1282,1,"Payne, Mr. Vivian Ponsonby",male,23.0,0.0,0.0,12749,93.5,B24,S,1.0,medium,young
-1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0.0,1.0,PC 17592,39.4,D28,S,2.0,medium,old
-1284,3,"Abbott, Master. Eugene Joseph",male,13.0,0.0,2.0,C.A. 2673,20.25,,S,3.0,medium,teen
-1285,2,"Gilbert, Mr. William",male,47.0,0.0,0.0,C.A. 30769,10.5,,S,1.0,medium,adult
-1286,3,"Kink-Heilmann, Mr. Anton",male,29.0,3.0,1.0,315153,22.025,,S,5.0,large,young
-1287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1.0,0.0,13695,60.0,C31,S,2.0,medium,teen
-1288,3,"Colbert, Mr. Patrick",male,24.0,0.0,0.0,371109,7.25,,Q,1.0,medium,young
-1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1.0,1.0,13567,79.2,B41,C,3.0,medium,adult
-1290,3,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0.0,0.0,347065,7.774999999999999,,S,1.0,medium,young
-1291,3,"Conlon, Mr. Thomas Henry",male,31.0,0.0,0.0,21332,7.7333,,Q,1.0,medium,adult
-1292,1,"Bonnell, Miss. Caroline",female,30.0,0.0,0.0,36928,164.86669999999998,C7,S,1.0,medium,adult
-1293,2,"Gale, Mr. Harry",male,38.0,1.0,0.0,28664,21.0,,S,2.0,medium,adult
-1294,1,"Gibson, Miss. Dorothy Winifred",female,22.0,0.0,1.0,112378,59.39999999999999,,C,2.0,medium,young
-1295,1,"Carrau, Mr. Jose Pedro",male,17.0,0.0,0.0,113059,47.1,,S,1.0,medium,teen
-1296,1,"Frauenthal, Mr. Isaac Gerald",male,43.0,1.0,0.0,17765,27.7208,D40,C,2.0,medium,adult
-1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0.0,0.0,SC/PARIS 2166,13.8625,D38,C,1.0,medium,teen
-1298,2,"Ware, Mr. William Jeffery",male,23.0,1.0,0.0,28666,10.5,,S,2.0,medium,young
-1299,1,"Widener, Mr. George Dunton",male,50.0,1.0,1.0,113503,211.5,C80,C,3.0,medium,old
-1300,3,"Riordan, Miss. Johanna Hannah""""",female,30.09745217738205,0.0,0.0,334915,7.7208000000000006,,Q,1.0,medium,adult
-1301,3,"Peacock, Miss. Treasteall",female,3.0,1.0,1.0,SOTON/O.Q. 3101315,13.774999999999999,,S,3.0,medium,child
-1302,3,"Naughton, Miss. Hannah",female,31.099999999999998,0.0,0.0,365237,7.75,,Q,1.0,medium,adult
-1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1.0,0.0,19928,90.0,C78,Q,2.0,medium,adult
-1304,3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0.0,0.0,347086,7.774999999999999,,S,1.0,medium,young
-1305,3,"Spector, Mr. Woolf",male,30.4,0.0,0.0,A.5. 3236,8.05,,S,1.0,medium,adult
-1306,1,"Oliva y Ocana, Dona. Fermina",female,39.0,0.0,0.0,PC 17758,108.9,C105,C,1.0,medium,adult
-1307,3,"Saether, Mr. Simon Sivertsen",male,38.5,0.0,0.0,SOTON/O.Q. 3101262,7.25,,S,1.0,medium,adult
-1308,3,"Ware, Mr. Frederick",male,30.4,0.0,0.0,359309,8.05,,S,1.0,medium,adult
-1309,3,"Peter, Master. Michael J",male,20.708724330215112,1.0,1.0,2668,22.3583,,C,3.0,medium,teen
+PassengerId,age,fare,sibsp,parch,pclass,sex,embarked,age_group,familysz
+892,34.5,7.8292,0.0,0.0,2,1,1,0,1
+893,47.0,7.0,1.0,0.0,2,0,2,0,1
+894,62.0,9.6875,0.0,0.0,1,1,1,2,1
+895,27.0,8.662500000000001,0.0,0.0,2,1,2,4,1
+896,22.0,12.287500000000001,1.0,1.0,2,0,2,4,1
+897,14.000000000000002,9.225000000000001,0.0,0.0,2,1,2,3,1
+898,30.0,7.629200000000001,0.0,0.0,2,0,1,0,1
+899,26.0,29.0,1.0,1.0,1,1,2,4,1
+900,18.0,7.229199999999999,0.0,0.0,2,0,0,3,1
+901,21.0,24.15,2.0,0.0,2,1,2,3,1
+902,28.6,7.895800000000001,0.0,0.0,2,1,2,4,1
+903,46.0,26.0,0.0,0.0,0,1,2,0,1
+904,23.0,82.26670000000001,1.0,0.0,0,0,2,4,1
+905,63.0,26.0,1.0,0.0,1,1,2,2,1
+906,47.0,61.175,1.0,0.0,0,0,2,0,1
+907,24.0,27.7208,1.0,0.0,1,0,0,4,1
+908,35.0,12.350000000000001,0.0,0.0,1,1,1,0,1
+909,21.0,7.225000000000005,0.0,0.0,2,1,0,3,1
+910,27.0,7.925000000000001,1.0,0.0,2,0,2,4,1
+911,45.0,7.225000000000005,0.0,0.0,2,0,0,0,1
+912,55.0,59.39999999999999,1.0,0.0,0,1,0,2,1
+913,9.0,3.1707999999999963,0.0,1.0,2,1,2,1,1
+914,47.027782961914774,31.6833,0.0,0.0,0,0,2,0,1
+915,21.0,61.3792,0.0,1.0,0,1,0,3,1
+916,48.0,262.375,1.0,3.0,0,0,0,0,0
+917,50.0,14.5,1.0,0.0,2,1,2,2,1
+918,22.0,61.9792,0.0,1.0,0,0,0,4,1
+919,22.5,7.225000000000005,0.0,0.0,2,1,0,4,1
+920,41.0,30.5,0.0,0.0,0,1,2,0,1
+921,22.78495789642016,21.6792,2.0,0.0,2,1,0,4,1
+922,50.0,26.0,1.0,0.0,1,1,2,2,1
+923,24.0,31.5,2.0,0.0,1,1,2,4,1
+924,33.0,20.575,1.0,2.0,2,0,2,0,0
+925,19.09143686502133,23.45,1.0,2.0,2,0,2,3,0
+926,30.0,57.75,1.0,0.0,0,1,0,0,1
+927,18.5,7.229199999999999,0.0,0.0,2,1,0,3,1
+928,30.4,8.05,0.0,0.0,2,0,2,0,1
+929,21.0,8.662500000000001,0.0,0.0,2,0,2,3,1
+930,25.0,9.5,0.0,0.0,2,1,2,4,1
+931,32.0,56.4958,0.0,0.0,2,1,2,0,1
+932,39.0,13.416699999999999,0.0,1.0,2,1,0,0,1
+933,42.6,26.55,0.0,0.0,0,1,2,0,1
+934,41.0,7.850000000000001,0.0,0.0,2,1,2,0,1
+935,30.0,13.0,0.0,0.0,1,0,2,0,1
+936,45.0,52.5542,1.0,0.0,0,0,2,0,1
+937,25.0,7.925000000000001,0.0,0.0,2,1,2,4,1
+938,45.0,29.7,0.0,0.0,0,1,0,0,1
+939,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+940,60.0,76.2917,0.0,0.0,0,0,0,2,1
+941,36.0,15.899999999999999,0.0,2.0,2,0,2,0,1
+942,24.0,60.0,1.0,0.0,0,1,2,4,1
+943,27.0,15.0333,0.0,0.0,1,1,0,4,1
+944,20.0,23.0,2.0,1.0,1,0,2,3,0
+945,28.0,263.00000000000006,3.0,2.0,0,0,2,4,0
+946,36.07145844660042,15.5792,0.0,0.0,1,1,0,0,1
+947,10.0,29.125,4.0,1.0,2,1,1,1,0
+948,35.0,7.895800000000001,0.0,0.0,2,1,2,0,1
+949,25.0,7.649999999999999,0.0,0.0,2,1,2,4,1
+950,26.666666666666668,16.1,1.0,0.0,2,1,2,4,1
+951,36.0,262.375,0.0,0.0,0,0,0,0,1
+952,17.0,7.895800000000001,0.0,0.0,2,1,2,3,1
+953,32.0,13.5,0.0,0.0,1,1,2,0,1
+954,18.0,7.75,0.0,0.0,2,1,2,3,1
+955,22.0,7.725000000000001,0.0,0.0,2,0,1,4,1
+956,13.0,262.375,2.0,2.0,0,1,0,3,0
+957,35.0,21.0,0.0,0.0,1,0,2,0,1
+958,18.0,7.879200000000001,0.0,0.0,2,0,1,3,1
+959,47.0,42.4,0.0,0.0,0,1,2,0,1
+960,31.0,28.5375,0.0,0.0,0,1,0,0,1
+961,60.0,263.00000000000006,1.0,4.0,0,0,2,2,0
+962,24.0,7.75,0.0,0.0,2,0,1,4,1
+963,21.0,7.895800000000001,0.0,0.0,2,1,2,3,1
+964,29.0,7.925000000000001,0.0,0.0,2,0,2,4,1
+965,28.5,27.7208,0.0,0.0,0,1,0,4,1
+966,35.0,211.5,0.0,0.0,0,0,0,0,1
+967,32.5,211.5,0.0,0.0,0,1,0,0,1
+968,30.4,8.05,0.0,0.0,2,1,2,0,1
+969,55.0,25.7,2.0,0.0,0,0,2,2,1
+970,30.0,13.0,0.0,0.0,1,1,2,0,1
+971,24.0,7.75,0.0,0.0,2,0,1,4,1
+972,6.0,15.2458,1.0,1.0,2,1,0,1,1
+973,67.0,221.7792,1.0,0.0,0,1,2,2,1
+974,49.0,26.0,0.0,0.0,0,1,2,0,1
+975,28.6,7.895800000000001,0.0,0.0,2,1,2,4,1
+976,42.24705037460851,10.708300000000001,0.0,0.0,1,1,1,0,1
+977,20.75,14.4542,1.0,0.0,2,1,0,3,1
+978,27.0,7.879200000000001,0.0,0.0,2,0,1,4,1
+979,18.0,8.05,0.0,0.0,2,0,2,3,1
+980,31.099999999999998,7.75,0.0,0.0,2,0,1,0,1
+981,2.0,23.0,1.0,1.0,1,1,2,1,1
+982,22.0,13.899999999999999,1.0,0.0,2,0,2,4,1
+983,38.0,7.774999999999999,0.0,0.0,2,1,2,0,1
+984,27.0,52.0,1.0,2.0,0,0,2,4,0
+985,30.4,8.05,0.0,0.0,2,1,2,0,1
+986,25.0,26.0,0.0,0.0,0,1,0,4,1
+987,25.0,7.7958,0.0,0.0,2,1,2,4,1
+988,76.0,78.85,1.0,0.0,0,0,2,2,1
+989,29.0,7.925000000000001,0.0,0.0,2,1,2,4,1
+990,20.0,7.854199999999999,0.0,0.0,2,0,2,3,1
+991,33.0,8.05,0.0,0.0,2,1,2,0,1
+992,43.0,55.4417,1.0,0.0,0,0,0,0,1
+993,27.0,26.0,1.0,0.0,1,1,2,4,1
+994,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+995,26.0,7.774999999999999,0.0,0.0,2,1,2,4,1
+996,16.0,8.5167,1.0,1.0,2,0,0,3,1
+997,28.0,22.525,0.0,0.0,2,1,2,4,1
+998,21.0,7.820799999999998,0.0,0.0,2,1,1,3,1
+999,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1000,27.32374100711585,8.712499999999999,0.0,0.0,2,1,2,4,1
+1001,18.5,13.0,0.0,0.0,1,1,2,3,1
+1002,41.0,15.0458,0.0,0.0,1,1,0,0,1
+1003,35.60000002995288,7.7791999999999994,0.0,0.0,2,0,1,0,1
+1004,36.0,31.6792,0.0,0.0,0,0,0,0,1
+1005,18.5,7.2833000000000006,0.0,0.0,2,0,1,3,1
+1006,63.0,221.7792,1.0,0.0,0,0,2,2,1
+1007,18.0,14.4542,1.0,0.0,2,1,0,3,1
+1008,34.5,6.4375,0.0,0.0,2,1,0,0,1
+1009,1.0,16.7,1.0,1.0,2,0,2,1,1
+1010,36.0,75.2417,0.0,0.0,0,1,0,0,1
+1011,29.0,26.0,1.0,0.0,1,0,2,4,1
+1012,12.0,15.75,0.0,0.0,1,0,2,1,1
+1013,24.542603240980313,7.75,1.0,0.0,2,1,1,4,1
+1014,35.0,57.75,1.0,0.0,0,0,0,0,1
+1015,28.0,7.25,0.0,0.0,2,1,2,4,1
+1016,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1017,17.0,16.1,0.0,1.0,2,0,2,3,1
+1018,22.0,7.7958,0.0,0.0,2,1,2,4,1
+1019,23.598831767293994,23.25,2.0,0.0,2,0,1,4,1
+1020,42.0,13.0,0.0,0.0,1,1,2,0,1
+1021,24.0,8.05,0.0,0.0,2,1,2,4,1
+1022,32.0,8.05,0.0,0.0,2,1,2,0,1
+1023,53.0,28.5,0.0,0.0,0,1,0,2,1
+1024,31.2326546091272,25.4667,0.0,4.0,2,0,2,0,0
+1025,19.1885031012489,6.4375,1.0,0.0,2,1,0,3,1
+1026,43.0,7.895800000000001,0.0,0.0,2,1,2,0,1
+1027,24.0,7.854199999999999,0.0,0.0,2,1,2,4,1
+1028,26.5,7.225000000000005,0.0,0.0,2,1,0,4,1
+1029,26.0,13.0,0.0,0.0,1,1,2,4,1
+1030,23.0,8.05,0.0,0.0,2,0,2,4,1
+1031,40.0,46.9,1.0,6.0,2,1,2,0,0
+1032,10.0,46.9,5.0,2.0,2,0,2,1,0
+1033,33.0,151.55,0.0,0.0,0,0,2,0,1
+1034,61.0,262.375,1.0,3.0,0,1,0,2,0
+1035,28.0,26.0,0.0,0.0,1,1,2,4,1
+1036,42.0,26.55,0.0,0.0,0,1,2,0,1
+1037,31.0,18.0,3.0,0.0,2,1,2,0,0
+1038,54.0,51.8625,0.0,0.0,0,1,2,2,1
+1039,22.0,8.05,0.0,0.0,2,1,2,4,1
+1040,42.6,26.55,0.0,0.0,0,1,2,0,1
+1041,30.0,26.0,1.0,1.0,1,1,2,0,1
+1042,23.0,83.1583,0.0,1.0,0,0,0,4,1
+1043,28.6,7.895800000000001,0.0,0.0,2,1,0,4,1
+1044,60.5,15.790000000000003,0.0,0.0,2,1,2,2,1
+1045,36.0,12.1833,0.0,2.0,2,0,2,0,1
+1046,13.0,31.3875,4.0,2.0,2,1,2,3,0
+1047,24.0,7.550000000000001,0.0,0.0,2,1,2,4,1
+1048,29.0,221.7792,0.0,0.0,0,0,2,4,1
+1049,23.0,7.854199999999999,0.0,0.0,2,0,2,4,1
+1050,42.0,26.55,0.0,0.0,0,1,2,0,1
+1051,26.0,13.774999999999999,0.0,2.0,2,0,2,4,1
+1052,21.0,7.7333,0.0,0.0,2,0,1,3,1
+1053,7.0,15.2458,1.0,1.0,2,1,0,1,1
+1054,26.0,13.5,0.0,0.0,1,0,2,4,1
+1055,31.857142855531585,7.0,0.0,0.0,2,1,2,0,1
+1056,41.0,13.0,0.0,0.0,1,1,2,0,1
+1057,26.0,22.025,1.0,1.0,2,0,2,4,1
+1058,48.0,50.4958,0.0,0.0,0,1,0,0,1
+1059,18.0,34.375,2.0,2.0,2,1,2,3,0
+1060,40.0,27.7208,0.0,0.0,0,0,0,0,1
+1061,22.0,8.962499999999999,0.0,0.0,2,0,2,4,1
+1062,32.5,7.550000000000001,0.0,0.0,2,1,2,0,1
+1063,27.0,7.225000000000005,0.0,0.0,2,1,0,4,1
+1064,23.0,13.899999999999999,1.0,0.0,2,1,2,4,1
+1065,24.8,7.229199999999999,0.0,0.0,2,1,0,4,1
+1066,40.0,31.3875,1.0,5.0,2,1,2,0,0
+1067,15.0,39.0,0.0,2.0,1,0,2,3,1
+1068,20.0,36.75,0.0,0.0,1,0,2,3,1
+1069,54.0,55.4417,1.0,0.0,0,1,0,2,1
+1070,36.0,39.0,0.0,3.0,1,0,2,0,0
+1071,64.0,83.1583,0.0,2.0,0,0,0,2,1
+1072,30.0,13.0,0.0,0.0,1,1,2,0,1
+1073,37.0,83.1583,1.0,1.0,0,1,0,0,1
+1074,18.0,53.1,1.0,0.0,0,0,2,3,1
+1075,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1076,27.0,247.52080000000007,1.0,1.0,0,0,0,4,1
+1077,40.0,16.0,0.0,0.0,1,1,2,0,1
+1078,21.0,21.0,0.0,1.0,1,0,2,3,1
+1079,17.0,8.05,2.0,0.0,2,1,2,3,1
+1080,10.2,69.55,7.999999999999999,2.0,2,0,2,1,0
+1081,40.0,13.0,0.0,0.0,1,1,2,0,1
+1082,34.0,26.0,1.0,0.0,1,1,2,0,1
+1083,32.6,26.0,0.0,0.0,0,1,2,0,1
+1084,11.5,14.5,1.0,1.0,2,1,2,1,1
+1085,61.0,12.350000000000001,0.0,0.0,1,1,1,2,1
+1086,8.0,32.5,0.0,2.0,1,1,2,1,1
+1087,33.0,7.854199999999999,0.0,0.0,2,1,2,0,1
+1088,6.0,134.5,0.0,2.0,0,1,0,1,1
+1089,18.0,7.774999999999999,0.0,0.0,2,0,2,3,1
+1090,23.0,10.5,0.0,0.0,1,1,2,4,1
+1091,38.106634107638044,8.1125,0.0,0.0,2,0,2,0,1
+1092,37.88554149816553,15.5,0.0,0.0,2,0,1,0,1
+1093,0.3299999999999983,14.399999999999999,0.0,2.0,2,1,2,1,1
+1094,47.0,227.52499999999998,1.0,0.0,0,1,0,0,1
+1095,8.0,26.0,1.0,1.0,1,0,2,1,1
+1096,25.0,10.5,0.0,0.0,1,1,2,4,1
+1097,44.3769175397045,25.7417,0.0,0.0,0,1,0,0,1
+1098,35.0,7.75,0.0,0.0,2,0,1,0,1
+1099,24.0,10.5,0.0,0.0,1,1,2,4,1
+1100,33.0,27.7208,0.0,0.0,0,0,0,0,1
+1101,25.0,7.895800000000001,0.0,0.0,2,1,2,4,1
+1102,32.0,22.525,0.0,0.0,2,1,2,0,1
+1103,28.6,7.050000000000001,0.0,0.0,2,1,2,4,1
+1104,17.0,73.5,0.0,0.0,1,1,2,3,1
+1105,60.0,26.0,1.0,0.0,1,0,2,2,1
+1106,38.0,7.774999999999999,4.0,2.0,2,0,2,0,0
+1107,42.0,42.5,0.0,0.0,0,1,2,0,1
+1108,19.00336586800311,7.879200000000001,0.0,0.0,2,0,1,3,1
+1109,57.0,164.86669999999998,1.0,1.0,0,1,2,2,1
+1110,50.0,211.5,1.0,1.0,0,0,0,2,1
+1111,30.4,8.05,0.0,0.0,2,1,2,0,1
+1112,30.0,13.8583,1.0,0.0,1,0,0,0,1
+1113,21.0,8.05,0.0,0.0,2,1,2,3,1
+1114,22.0,10.5,0.0,0.0,1,0,2,4,1
+1115,21.0,7.7958,0.0,0.0,2,1,2,3,1
+1116,53.0,27.4458,0.0,0.0,0,0,0,2,1
+1117,29.0,15.2458,0.0,2.0,2,0,0,4,1
+1118,23.0,7.7958,0.0,0.0,2,1,2,4,1
+1119,31.099999999999998,7.75,0.0,0.0,2,0,1,0,1
+1120,40.5,15.100000000000001,0.0,0.0,2,1,2,0,1
+1121,36.0,13.0,0.0,0.0,1,1,2,0,1
+1122,14.000000000000002,65.0,0.0,0.0,1,1,2,3,1
+1123,21.0,26.55,0.0,0.0,0,0,2,3,1
+1124,21.0,6.495800000000003,1.0,0.0,2,1,2,3,1
+1125,19.00336586800311,7.879200000000001,0.0,0.0,2,1,1,3,1
+1126,39.0,71.2833,1.0,0.0,0,1,0,0,1
+1127,20.0,7.854199999999999,0.0,0.0,2,1,2,3,1
+1128,64.0,75.25,1.0,0.0,0,1,0,2,1
+1129,20.0,7.225000000000005,0.0,0.0,2,1,0,3,1
+1130,18.0,13.0,1.0,1.0,1,0,2,3,1
+1131,48.0,106.425,1.0,0.0,0,0,0,0,1
+1132,55.0,27.7208,0.0,0.0,0,0,0,2,1
+1133,45.0,30.0,0.0,2.0,1,0,2,0,1
+1134,45.0,134.5,1.0,1.0,0,1,0,0,1
+1135,26.00040120923874,7.887499999999999,0.0,0.0,2,1,2,4,1
+1136,19.09143686502133,23.45,1.0,2.0,2,1,2,3,0
+1137,41.0,51.8625,1.0,0.0,0,1,2,0,1
+1138,22.0,21.0,0.0,0.0,1,0,2,4,1
+1139,42.0,32.5,1.0,1.0,1,1,2,0,1
+1140,29.0,26.0,1.0,0.0,1,0,2,4,1
+1141,20.75,14.4542,1.0,0.0,2,0,0,3,1
+1142,0.9200000000000017,27.75,1.0,2.0,1,0,2,1,0
+1143,20.0,7.925000000000001,0.0,0.0,2,1,2,3,1
+1144,27.0,136.7792,1.0,0.0,0,1,0,4,1
+1145,24.0,9.325,0.0,0.0,2,1,2,4,1
+1146,32.5,9.5,0.0,0.0,2,1,2,0,1
+1147,32.5,7.550000000000001,0.0,0.0,2,1,2,0,1
+1148,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1149,28.0,8.05,0.0,0.0,2,1,2,4,1
+1150,19.0,13.0,0.0,0.0,1,0,2,3,1
+1151,21.0,7.774999999999999,0.0,0.0,2,1,2,3,1
+1152,36.5,17.4,1.0,0.0,2,1,2,0,1
+1153,21.0,7.854199999999999,0.0,0.0,2,1,2,3,1
+1154,29.0,23.0,0.0,2.0,1,0,2,4,1
+1155,1.0,12.1833,1.0,1.0,2,0,2,1,1
+1156,30.0,12.7375,0.0,0.0,1,1,0,0,1
+1157,28.6,7.895800000000001,0.0,0.0,2,1,2,4,1
+1158,37.0,0.0,0.0,0.0,0,1,2,0,1
+1159,32.5,7.550000000000001,0.0,0.0,2,1,2,0,1
+1160,30.4,8.05,0.0,0.0,2,0,2,0,1
+1161,17.0,8.662500000000001,0.0,0.0,2,1,2,3,1
+1162,46.0,75.2417,0.0,0.0,0,1,0,0,1
+1163,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1164,26.0,136.7792,1.0,0.0,0,0,0,4,1
+1165,33.181102362283475,15.5,1.0,0.0,2,0,1,0,1
+1166,29.0,7.225000000000005,0.0,0.0,2,1,0,4,1
+1167,20.0,26.0,1.0,0.0,1,0,2,3,1
+1168,28.0,10.5,0.0,0.0,1,1,2,4,1
+1169,40.0,26.0,1.0,0.0,1,1,2,0,1
+1170,30.0,21.0,1.0,0.0,1,1,2,0,1
+1171,22.0,10.5,0.0,0.0,1,1,2,4,1
+1172,23.0,8.662500000000001,0.0,0.0,2,0,2,4,1
+1173,0.75,13.774999999999999,1.0,1.0,2,1,2,1,1
+1174,31.099999999999998,7.75,0.0,0.0,2,0,1,0,1
+1175,9.0,15.2458,1.0,1.0,2,0,0,1,1
+1176,2.0,20.2125,1.0,1.0,2,0,2,1,1
+1177,36.0,7.25,0.0,0.0,2,1,2,0,1
+1178,26.7,7.25,0.0,0.0,2,1,2,4,1
+1179,24.0,82.26670000000001,1.0,0.0,0,1,2,4,1
+1180,24.8,7.229199999999999,0.0,0.0,2,1,0,4,1
+1181,30.4,8.05,0.0,0.0,2,1,2,0,1
+1182,40.265038713519914,39.6,0.0,0.0,0,1,2,0,1
+1183,30.0,6.949999999999996,0.0,0.0,2,0,1,0,1
+1184,24.8,7.229199999999999,0.0,0.0,2,1,0,4,1
+1185,53.0,81.8583,1.0,1.0,0,1,2,2,1
+1186,36.0,9.5,0.0,0.0,2,1,2,0,1
+1187,26.0,7.895800000000001,0.0,0.0,2,1,2,4,1
+1188,1.0,41.5792,1.0,2.0,1,0,0,1,0
+1189,22.78495789642016,21.6792,2.0,0.0,2,1,0,4,1
+1190,30.0,45.5,0.0,0.0,0,1,2,0,1
+1191,29.0,7.854199999999999,0.0,0.0,2,1,2,4,1
+1192,32.0,7.774999999999999,0.0,0.0,2,1,2,0,1
+1193,23.000138837967985,15.0458,0.0,0.0,1,1,0,4,1
+1194,43.0,21.0,0.0,1.0,1,1,2,0,1
+1195,24.0,8.662500000000001,0.0,0.0,2,1,2,4,1
+1196,31.099999999999998,7.75,0.0,0.0,2,0,1,0,1
+1197,64.0,26.55,1.0,1.0,0,0,2,2,1
+1198,30.0,151.55,1.0,2.0,0,1,2,0,0
+1199,0.8299999999999983,9.350000000000001,0.0,1.0,2,1,2,1,1
+1200,55.0,93.5,1.0,1.0,0,1,2,2,1
+1201,45.0,14.1083,1.0,0.0,2,0,2,0,1
+1202,18.0,8.662500000000001,0.0,0.0,2,1,2,3,1
+1203,22.0,7.225000000000005,0.0,0.0,2,1,0,4,1
+1204,28.92685804108234,7.574999999999999,0.0,0.0,2,1,2,4,1
+1205,37.0,7.75,0.0,0.0,2,0,1,0,1
+1206,55.0,135.63330000000002,0.0,0.0,0,0,0,2,1
+1207,17.0,7.7333,0.0,0.0,2,0,1,3,1
+1208,57.0,146.5208,1.0,0.0,0,1,0,2,1
+1209,19.0,10.5,0.0,0.0,1,1,2,3,1
+1210,27.0,7.854199999999999,0.0,0.0,2,1,2,4,1
+1211,22.0,31.5,2.0,0.0,1,1,2,4,1
+1212,26.0,7.774999999999999,0.0,0.0,2,1,2,4,1
+1213,25.0,7.229199999999999,0.0,0.0,2,1,0,4,1
+1214,26.0,13.0,0.0,0.0,1,1,2,4,1
+1215,33.0,26.55,0.0,0.0,0,1,2,0,1
+1216,39.0,211.33749999999998,0.0,0.0,0,0,2,0,1
+1217,23.0,7.050000000000001,0.0,0.0,2,1,2,4,1
+1218,12.0,39.0,2.0,1.0,1,0,2,1,0
+1219,46.0,79.2,0.0,0.0,0,1,0,0,1
+1220,29.0,26.0,1.0,0.0,1,1,2,4,1
+1221,21.0,13.0,0.0,0.0,1,1,2,3,1
+1222,48.0,36.75,0.0,2.0,1,0,2,0,1
+1223,39.0,29.7,0.0,0.0,0,1,0,0,1
+1224,29.0,7.225000000000005,0.0,0.0,2,1,0,4,1
+1225,19.0,15.741700000000002,1.0,1.0,2,0,0,3,1
+1226,27.0,7.895800000000001,0.0,0.0,2,1,2,4,1
+1227,30.0,26.0,0.0,0.0,0,1,2,0,1
+1228,32.0,13.0,0.0,0.0,1,1,2,0,1
+1229,39.0,7.229199999999999,0.0,2.0,2,1,0,0,1
+1230,25.0,31.5,0.0,0.0,1,1,2,4,1
+1231,24.8,7.229199999999999,0.0,0.0,2,1,0,4,1
+1232,18.0,10.5,0.0,0.0,1,1,2,3,1
+1233,32.0,7.5792,0.0,0.0,2,1,2,0,1
+1234,40.18886342411659,69.55,1.0,9.0,2,1,2,0,0
+1235,58.0,512.3292,0.0,1.0,0,0,0,2,1
+1236,0.6709725721038389,14.5,1.0,1.0,2,1,2,1,1
+1237,16.0,7.649999999999999,0.0,0.0,2,0,2,3,1
+1238,26.0,13.0,0.0,0.0,1,1,2,4,1
+1239,38.0,7.229199999999999,0.0,0.0,2,0,0,0,1
+1240,24.0,13.5,0.0,0.0,1,1,2,4,1
+1241,31.0,21.0,0.0,0.0,1,0,2,0,1
+1242,45.0,63.3583,0.0,1.0,0,0,0,0,1
+1243,25.0,10.5,0.0,0.0,1,1,2,4,1
+1244,18.0,73.5,0.0,0.0,1,1,2,3,1
+1245,49.0,65.0,1.0,2.0,1,1,2,0,0
+1246,0.1700000000000017,20.575,1.0,2.0,2,0,2,1,0
+1247,50.0,26.0,0.0,0.0,0,1,2,2,1
+1248,59.0,51.4792,2.0,0.0,0,0,2,2,1
+1249,19.00336586800311,7.879200000000001,0.0,0.0,2,1,2,3,1
+1250,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1251,30.0,15.55,1.0,0.0,2,0,2,0,1
+1252,14.499999999999998,69.55,7.999999999999999,2.0,2,1,2,3,0
+1253,24.0,37.0042,1.0,1.0,1,0,0,4,1
+1254,31.0,21.0,0.0,0.0,1,0,2,0,1
+1255,27.0,8.662500000000001,0.0,0.0,2,1,2,4,1
+1256,25.0,55.4417,1.0,0.0,0,0,0,4,1
+1257,40.18886342411659,69.55,1.0,9.0,2,0,2,0,0
+1258,21.25775309868429,14.458300000000001,1.0,0.0,2,1,0,3,1
+1259,22.0,39.6875,0.0,0.0,2,0,2,4,1
+1260,45.0,59.39999999999999,0.0,1.0,0,0,0,0,1
+1261,29.0,13.8583,0.0,0.0,1,1,0,4,1
+1262,21.0,11.5,1.0,0.0,1,1,2,3,1
+1263,31.0,134.5,0.0,0.0,0,0,0,0,1
+1264,49.0,0.0,0.0,0.0,0,1,2,0,1
+1265,44.0,13.0,0.0,0.0,1,1,2,0,1
+1266,54.0,81.8583,1.0,1.0,0,0,2,2,1
+1267,45.0,262.375,0.0,0.0,0,0,0,0,1
+1268,22.0,8.662500000000001,2.0,0.0,2,0,2,4,1
+1269,21.0,11.5,0.0,0.0,1,1,2,3,1
+1270,55.0,50.0,0.0,0.0,0,1,2,2,1
+1271,5.0,31.3875,4.0,2.0,2,1,2,1,0
+1272,31.099999999999998,7.75,0.0,0.0,2,1,1,0,1
+1273,26.0,7.879200000000001,0.0,0.0,2,1,1,4,1
+1274,19.0,14.5,0.0,0.0,2,0,2,3,1
+1275,19.0,16.1,1.0,0.0,2,0,2,3,1
+1276,36.0,12.875,0.0,0.0,1,1,2,0,1
+1277,24.0,65.0,1.0,2.0,1,0,2,4,0
+1278,24.0,7.774999999999999,0.0,0.0,2,1,2,4,1
+1279,57.0,13.0,0.0,0.0,1,1,2,2,1
+1280,21.0,7.75,0.0,0.0,2,1,1,3,1
+1281,6.0,21.075,3.0,1.0,2,1,2,1,0
+1282,23.0,93.5,0.0,0.0,0,1,2,4,1
+1283,51.0,39.4,0.0,1.0,0,0,2,2,1
+1284,13.0,20.25,0.0,2.0,2,1,2,3,1
+1285,47.0,10.5,0.0,0.0,1,1,2,0,1
+1286,29.0,22.025,3.0,1.0,2,1,2,4,0
+1287,18.0,60.0,1.0,0.0,0,0,2,3,1
+1288,24.0,7.25,0.0,0.0,2,1,1,4,1
+1289,48.0,79.2,1.0,1.0,0,0,0,0,1
+1290,22.0,7.774999999999999,0.0,0.0,2,1,2,4,1
+1291,31.0,7.7333,0.0,0.0,2,1,1,0,1
+1292,30.0,164.86669999999998,0.0,0.0,0,0,2,0,1
+1293,38.0,21.0,1.0,0.0,1,1,2,0,1
+1294,22.0,59.39999999999999,0.0,1.0,0,0,0,4,1
+1295,17.0,47.1,0.0,0.0,0,1,2,3,1
+1296,43.0,27.7208,1.0,0.0,0,1,0,0,1
+1297,20.0,13.8625,0.0,0.0,1,1,0,3,1
+1298,23.0,10.5,1.0,0.0,1,1,2,4,1
+1299,50.0,211.5,1.0,1.0,0,1,0,2,1
+1300,30.09745217738205,7.7208000000000006,0.0,0.0,2,0,1,0,1
+1301,3.0,13.774999999999999,1.0,1.0,2,0,2,1,1
+1302,31.099999999999998,7.75,0.0,0.0,2,0,1,0,1
+1303,37.0,90.0,1.0,0.0,0,0,1,0,1
+1304,28.0,7.774999999999999,0.0,0.0,2,0,2,4,1
+1305,30.4,8.05,0.0,0.0,2,1,2,0,1
+1306,39.0,108.9,0.0,0.0,0,0,0,0,1
+1307,38.5,7.25,0.0,0.0,2,1,2,0,1
+1308,30.4,8.05,0.0,0.0,2,1,2,0,1
+1309,20.708724330215112,22.3583,1.0,1.0,2,1,0,3,1

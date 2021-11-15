@@ -1,9 +1,10 @@
 # External libraries
+from utils import validate_path, read_data
 import os.path as osp
 import pandas as pd
 import numpy as np
 from sklearn.impute import KNNImputer, SimpleImputer
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # built-in libraries
 from argparse import ArgumentParser, Namespace
@@ -58,13 +59,6 @@ class Featurizer(object):
         for f in self.featurizers:
             df = f.create(df)
         return df
-
-
-def read_data(train_path: str, test_path: str) -> TrainTestDataFrames:
-    train_df: pd.DataFrame = pd.read_csv(train_path, index_col="PassengerId")
-    test_df: pd.DataFrame = pd.read_csv(test_path, index_col="PassengerId")
-    dfs = TrainTestDataFrames(train_df, test_df)
-    return dfs
 
 
 def lowercase_cols(df: pd.DataFrame) -> pd.DataFrame:
@@ -122,6 +116,16 @@ def handle_missing_values_continuous(
     return train_df, test_df
 
 
+def label_encode_features(
+    train_df: pd.DataFrame, test_df: pd.DataFrame
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    for col in train_df.columns:
+        lb = LabelEncoder()
+        train_df.loc[:, col] = lb.fit_transform(train_df[col]).astype("int")
+        test_df.loc[:, col] = lb.transform(test_df[col]).astype("int")
+    return train_df, test_df
+
+
 def handle_missing_values_categorical(
     train_df: pd.DataFrame, test_df: pd.DataFrame
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
@@ -152,19 +156,27 @@ def main(args: Namespace):
     train_df = featurize(train_df)
     test_df = featurize(test_df)
 
+    categortical_features = args.cat_features + ["age_group", "familysz"]
+    features = args.cont_features + categortical_features
+    res = label_encode_features(
+        train_df[categortical_features], test_df[categortical_features]
+    )
+    train_df.loc[:, categortical_features], test_df.loc[:, categortical_features] = res
+
+    ## DELETE DUPLICATES
+    non_duplicated_idxs = train_df[features].drop_duplicates().index
+    duplicated_idxs = train_df[train_df.duplicated(subset=features)].index
+    print(f"Deleting {duplicated_idxs} ids because are duplicated")
+
+    train_df = train_df.loc[non_duplicated_idxs, features + ["survived"]]
+    test_df = test_df[features]
+
     train_df.to_csv(osp.join(args.output_dir, "train.csv"))
     test_df.to_csv(osp.join(args.output_dir, "test.csv"))
 
     print(train_df, train_df.isna().sum())
     print()
     print(test_df, test_df.isna().sum())
-
-
-def validate_path(path: str) -> str:
-    if not osp.exists(path):
-        raise FileNotFoundError(f"{path} does not exist")
-    else:
-        return path
 
 
 if __name__ == "__main__":
