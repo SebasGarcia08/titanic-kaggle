@@ -2,7 +2,6 @@
 import os.path as osp
 import pandas as pd
 import numpy as np
-from tqdm import tqdm
 from sklearn.impute import KNNImputer, SimpleImputer
 from sklearn.preprocessing import StandardScaler
 
@@ -153,12 +152,12 @@ def main(args: Namespace):
     train_df = featurize(train_df)
     test_df = featurize(test_df)
 
-    train_df.to_csv(osp.join(args.output_dir, "train.csv"), index=False)
-    test_df.to_csv(osp.join(args.output_dir, "test.csv"), index=False)
+    train_df.to_csv(osp.join(args.output_dir, "train.csv"))
+    test_df.to_csv(osp.join(args.output_dir, "test.csv"))
 
-    print(train_df.isna().sum())
+    print(train_df, train_df.isna().sum())
     print()
-    print(test_df.isna().sum())
+    print(test_df, test_df.isna().sum())
 
 
 def validate_path(path: str) -> str:
