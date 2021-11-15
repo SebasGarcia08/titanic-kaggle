@@ -3,9 +3,8 @@ import os.path as osp
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
-from sklearn.impute import KNNImputer
+from sklearn.impute import KNNImputer, SimpleImputer
 from sklearn.preprocessing import StandardScaler
-from sklearn.base import BaseImputer
 
 # built-in libraries
 from argparse import ArgumentParser, Namespace
@@ -106,21 +105,31 @@ def featurize(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def handle_missing_values(
-    X_train: np.ndarray, X_test: np.ndarray
-) -> Tuple[np.ndarray, np.ndarray]:
+def handle_missing_values_continuous(
+    train_df: pd.DataFrame, test_df: pd.DataFrame
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
     scaler = StandardScaler()
     imputer = KNNImputer(weights="distance")
 
-    X_train = scaler.fit_transform(X_train)
-    X_test = scaler.transform(X_test)
+    train_df = scaler.fit_transform(train_df)
+    test_df = scaler.transform(test_df)
 
-    X_train = imputer.fit_transform(X_train)
-    X_test = imputer.transform(X_test)
+    train_df = imputer.fit_transform(train_df)
+    test_df = imputer.transform(test_df)
 
-    X_train = scaler.inverse_transform(X_train)
-    X_test = scaler.inverse_transform(X_test)
-    return X_train, X_test
+    train_df = scaler.inverse_transform(train_df)
+    test_df = scaler.inverse_transform(test_df)
+
+    return train_df, test_df
+
+
+def handle_missing_values_categorical(
+    train_df: pd.DataFrame, test_df: pd.DataFrame
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    imputer = SimpleImputer(strategy="most_frequent")
+    train_df = imputer.fit_transform(train_df)
+    test_df = imputer.transform(test_df)
+    return train_df, test_df
 
 
 def main(args: Namespace):
@@ -132,9 +141,24 @@ def main(args: Namespace):
     train_df = lowercase_cols(train_df)
     test_df = lowercase_cols(test_df)
 
-    print(train_df)
+    handled = handle_missing_values_continuous(
+        train_df=train_df[args.cont_features], test_df=test_df[args.cont_features],
+    )
+    train_df[args.cont_features], test_df[args.cont_features] = handled
+
+    handled = handle_missing_values_categorical(
+        train_df=train_df[args.cat_features], test_df=test_df[args.cat_features],
+    )
+    train_df[args.cat_features], test_df[args.cat_features] = handled
+    train_df = featurize(train_df)
+    test_df = featurize(test_df)
+
+    train_df.to_csv(osp.join(args.output_dir, "train.csv"), index=False)
+    test_df.to_csv(osp.join(args.output_dir, "test.csv"), index=False)
+
+    print(train_df.isna().sum())
     print()
-    print(test_df)
+    print(test_df.isna().sum())
 
 
 def validate_path(path: str) -> str:
@@ -175,7 +199,7 @@ if __name__ == "__main__":
         "--cont-features",
         nargs="+",
         help="Categorical features to use",
-        default=['age', 'fare', 'sibsp', 'parch']
+        default=["age", "fare", "sibsp", "parch"],
     )
 
     args = parser.parse_args()
