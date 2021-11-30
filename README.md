@@ -91,3 +91,19 @@ conda env create --file environment.yml
 cd titanic-kaggle
 pip install -e . # -e to install for development
 ```
+
+# Authors
+
+* Juan Fernando Angulo Salvador
+
+* Danna Sofía García
+
+* Sebastián García Acosta
+
+
+# Submission
+
+[Kaggle profile, you can find here the submission](https://www.kaggle.com/sebastingarcaacosta)
+
+![Submission](imgs/submission.png)
+
